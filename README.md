@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/noelia-altamirano" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackthebox.com/Unknown1010" target="_blank">
+  <a href="https://ctf.hackthebox.com/user/profile/471442" target="_blank">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?logo=hackthebox&logoColor=green" />
   </a>
 </p>
