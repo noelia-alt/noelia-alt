@@ -6,7 +6,7 @@
 <!-- Presentación -->
 ### 👩‍💻 About Me
 - 🔐 **Cybersecurity Consultant** | CTF player (THM, HTB, MetaCTF)
-- 🧩 Lover of **binary exploitation**, post-quantum crypto & secure software design
+- 🧩 Lover of post-quantum crypto & secure software design
 - 🌍 Based in Buenos Aires, Argentina
 - 🌱 Constant learner: **ISO 27001, SOC reports, PCI DSS, NIST SP 800-115, MITRE ATT&CK**
 - 💡 Passionate about blending **security, automation & creative design**
@@ -17,11 +17,6 @@
 | Project | Stack / Focus | Description |
 |--------|--------------|------------|
 
-
----
-
-### 🏅 Capture The Flag & Achievements
-- **AI Red Teaming CTF (HackerOne + HTB)**: 11 challenges exploiting AI-powered apps  
 
 ---
 
